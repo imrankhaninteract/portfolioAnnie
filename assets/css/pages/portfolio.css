@@ -37,6 +37,8 @@
 
 .portfolio {
   background-color: var(--maximum-yellow-red_a10);
+  background-image: url(https://images.pexels.com/photos/457937/pexels-photo-457937.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-size: 100%;
   padding-block-start: calc(var(--section-padding) + 60px);
 }
 
